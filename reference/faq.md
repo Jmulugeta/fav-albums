@@ -11,7 +11,7 @@ For a full walkthrough, see [Getting Started with My Favorite Albums](../tasks/r
 
 ---
 ## Where does the data come from?
-The app reads from `data/album-rankings.csv` in the project folder. The dataset contains  following columns:
+The app reads from `data/album-rankings.csv` in the project folder. The dataset contains following columns:
 
 **Example rows:**
 | Column  | Type    | Description                                         |
@@ -24,6 +24,7 @@ The app reads from `data/album-rankings.csv` in the project folder. The dataset 
 | Vinyl   | string  | Contains "v" if the owner has this album on vinyl   |
 | EP      | string  | Contains "EP" if the release is an extended play    |
 | Live    | string  | Contains "Live" if the release is a live recording  |
+
 **Example rows:**
 
 | Year | Ranking | Album                       | Artist              | Rating | Vinyl | EP | Live |
