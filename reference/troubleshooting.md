@@ -1,6 +1,6 @@
 # MyFavoriteAlbums Troubleshooting Guide
 This guide helps you diagnose and fix common problems when running the MyFavoriteAlbums Shiny app.  
-For setup instructions, see [Getting Started with My Favorite Albums](../tasks/run-the-app.md).
+For setup instructions, see [Getting Started with My Favorite Albums](/tasks/run-the-app.md).
 ---
 ## App Will Not Launch
 **Problem:** Clicking **Run App** does nothing or produces an error in the Console.
